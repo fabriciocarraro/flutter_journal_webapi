@@ -1,0 +1,4 @@
+#Wed Jan 25 14:43:55 BRT 2023
+base.0=C\:\\Users\\Fabricio\\Documents\\Dart e Flutter\\flutter_diary_webapi\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
